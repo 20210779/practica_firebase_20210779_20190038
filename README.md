@@ -14,7 +14,7 @@ Descarga aqui para Android
 * Victór Mariano Callejas Calderón #20190038
 
 
-###Dependecias utilizadas
+### Dependecias utilizadas
 @firebase/auth
 @react-navigation/native
 @react-navigation/native-stack
