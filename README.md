@@ -6,7 +6,7 @@
 Descarga Freddy's Pizza Palace ahora y sumérgete en una experiencia gastronómica que combina el sabor de la mejor pizza con la emoción y misterio de Five Nights at Freddy's. ¡Porque en Freddy's Pizza Palace, siempre hay una sorpresa esperando!
 
 Descarga aqui para Android 
-[PROXIMAMENTE]
+[--> Descargar APK](https://expo.dev/accounts/franp64/projects/Freddy_Fazzbear/builds/389f8baf-6004-481e-a6cf-e674cfac78fa)
 
 
 ## Desarrolladores
