@@ -18,10 +18,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/logo_Fazzbear.png",
         "backgroundColor": "#000000"
-      }
+      },
+      "package": "com.franp64.Freddy_Fazzbear"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4f70a920-a7c5-4b7c-ba96-7570d28dafd2"
+      }
     }
   }
 }
